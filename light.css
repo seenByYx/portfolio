@@ -164,6 +164,7 @@ nav{
     display: flex;
     margin-top: 5em;
     gap: 30px;
+    flex-wrap: wrap;
 }
 .icon{
     display: flex;
