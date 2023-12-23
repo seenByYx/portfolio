@@ -576,6 +576,7 @@ footer{
     }
     .socialicons{
         margin-top: 2em;
+         flex-wrap: wrap;
     }
     .featured-image{
         order: 1;
